@@ -24,10 +24,10 @@ global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //owner v card
-global.vcardowner = ['+380944814219'] //ur owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" //ur owner name
+global.vcardowner = ['+94751100484'] //ur owner number
+global.ownername = "😎Chathuranga❯❯" //ur owner name
 global.ytname = "" //ur yt chanel name
-global.socialm = "GitHub: prabhasha2006" //ur github or insta name
+global.socialm = "GitHub:https://github.com/macvis2004 " //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot body 
